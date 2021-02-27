@@ -1,4 +1,4 @@
-# IMS
+# Amdin - Inventory Management System
 --------
 **1. Make a invoice folder in the Sale_form.py file directory.**
 
